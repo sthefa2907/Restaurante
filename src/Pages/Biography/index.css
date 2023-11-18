@@ -1,0 +1,53 @@
+body{
+    background-repeat: no-repeat;
+    
+}
+
+  .rounded-full {
+    border-radius: 50%;
+    width: 200px;
+  }
+  
+  .text-3xl {
+    font-size: 1.875rem; 
+    font-weight: bold;
+    color: #333;
+  }
+  
+
+  .text-gray-600 {
+    color: #666;
+  }
+  
+
+  .text-black {
+    color: #000;
+  }
+  
+ 
+  .text-blue-500 {
+    color: #3182ce;
+  }
+  
+
+  .mb-4 {
+    margin-bottom: 1rem;
+  }
+  
+  
+  .mb-6 {
+    margin-bottom: 1.5rem;
+  }
+  
+
+  .mb-2 {
+    margin-bottom: 0.5rem;
+  }
+  
+
+  .p-8 {
+    padding: 2rem;
+  }
+  .translate{
+    transform: translateX(80px);
+  }
